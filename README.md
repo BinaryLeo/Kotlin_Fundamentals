@@ -1,6 +1,6 @@
 # Kotlin_Fundamentals
-Android Jetpack Compose - lessons : The Comprehensive Bootcamp 2022 and
-The Complete Android 12 & Kotlin Development Masterclass
+Android Jetpack Compose - lessons : The Comprehensive Bootcamp and
+The Complete Android & Kotlin Development Masterclass
 
 
 Fundamentals
@@ -17,10 +17,16 @@ Fundamentals
 - Sets collections
 - Maps collections
 
-Intermeditate
+Intermediate
 
 - Basic Class
+- Primary Constructors
+- function with parameters
+- Inheritance
+- Interfaces and Classes
+- Data Classes
+- Kotlin OOP
 
 Advanced
-
--
+- Generics
+- Sealed Classes
