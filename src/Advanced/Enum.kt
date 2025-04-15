@@ -41,7 +41,7 @@ fun getResult(result:Result){
     }
 }
 enum class Result{
-    SUCCESS,
+    SUCCESS ,
     FAILURE,
     PENDING,
     IDLE,
